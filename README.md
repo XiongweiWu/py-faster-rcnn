@@ -3,13 +3,14 @@
 This repository contains python implementation of **Perceptual Generative Adversarial Network for Small Object Detection**. 
 
 # Perceptual Generative Adversarial Network for Small Object Detection
+This paper is from:
 
-@article{li2017perceptual,
-  title={Perceptual Generative Adversarial Networks for Small Object Detection},
-  author={Li, Jianan and Liang, Xiaodan and Wei, Yunchao and Xu, Tingfa and Feng, Jiashi and Yan, Shuicheng},
-  journal={arXiv preprint arXiv:1706.05274}, 
-  year={2017}
-}
+	@article{li2017perceptual,
+			title={Perceptual Generative Adversarial Networks for Small Object Detection},
+			author={Li, Jianan and Liang, Xiaodan and Wei, Yunchao and Xu, Tingfa and Feng, Jiashi and Yan, Shuicheng},
+			journal={arXiv preprint arXiv:1706.05274}, 
+			year={2017}
+	}
 
 
 ### Training Process
